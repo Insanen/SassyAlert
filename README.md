@@ -4,8 +4,6 @@ Quick Task Runner for SaSS using Grunt, The purpose of this snippet is to Run Gr
 
 We mainly used this Set-up for Insanen Solutions Projects and has a tool for all our developers. Feel free to use it, if it makes your life easier. Any implementations feel free to send it!
 
-nick.r@insanen.com
-
 
 
 SETUP GRUNT
